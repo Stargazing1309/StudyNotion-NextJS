@@ -95,3 +95,4 @@ These technologies lay the foundation for a scalable and secure platform, with f
    ```bash
    npm run dev
    ```
+   Test CI/CD
